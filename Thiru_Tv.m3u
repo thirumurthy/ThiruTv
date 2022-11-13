@@ -1,0 +1,45 @@
+#EXTM3U
+#SriLanka
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: Vasantham TV" tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="SriLanka Tamil TV",SL-TAM: Vasantham TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Tamil TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/ibc.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Tamil TV
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Tamil Srilanka TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/srilanka.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Tamil Srilanka TV
+https://tx1.ibctamil.tv/CDN_IBC_Srilanka/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Bhakthi TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/bakthi.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Bhakthi TV
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Isai TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/music.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Isai TV
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Siluvai TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/siluvai.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Siluvai TV
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: IBC Pakidi TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/comedy.png" group-title="SriLanka Tamil TV",SL-TAM: IBC Pakidi TV
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: TTN Tamil TV" tvg-logo="https://ttn.tv/public/logo.png" group-title="SriLanka Tamil TV",SL-TAM: TTN Tamil TV
+https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: DAN Tamil Oli TV" tvg-logo="https://www.dantv.tv/images/stories/joomlart/logo02.png" group-title="SriLanka Tamil TV",SL-TAM: DAN Tamil Oli TV
+https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="SL-TAM: EET TV" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="SL-TAM: EET TV - L2" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" EET TV - L2
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+
+#singapore
+#EXTINF:-1 tvg-id="Vasantham.sg" tvg-country="SG" tvg-language="English;Tamil" tvg-logo="" group-title="Singapore Tamil TV",Vasantham [Geo-blocked]
+https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
+
+#Australia
+#EXTINF:-1 tvg-id="" tvg-name="AUS-TAM: AUS Tamil TV" tvg-logo="https://austamil.tv/wp-content/uploads/2022/05/Aus-Logo.png" group-title="Australia Tamil TV",AUS-TAM: AUS Tamil TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
+
+#Canada
+#EXTINF:-1 tvg-id="" tvg-name="CA-TAM: Sooriyan TV" tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png" group-title="Canada Tamil TV",CA-TAM: Sooriyan TV
+https://castor.streamthatvideo.co:8081/sooriyantv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA-TAM: IBC Tamil Canada TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/canada.png" group-title="Canada Tamil TV",CA-TAM: IBC Tamil Canada TV
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+
+#EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA;IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Canada Tamil TV",Tamil Vision TV (1080p)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+ 
