@@ -20,14 +20,22 @@ https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
 https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: DAN Tamil Oli TV" tvg-logo="https://www.dantv.tv/images/stories/joomlart/logo02.png" group-title="SriLanka Tamil TV",SL-TAM: DAN Tamil Oli TV
 https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
+# https://askmedia.livebox.co.in/DANTAMILOLIhls/DANTAMILOLI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: DAN NEWS" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40000.png" group-title="SriLanka Tamil TV",SL-TAM: DAN NEWS
 https://askmedia.livebox.co.in/DanNewshls/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: DAN Music" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40000.png" group-title="SriLanka Tamil TV",DAN Music
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: DAN Comedy" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40000.png" group-title="SriLanka Tamil TV",DAN Comedy
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: EET TV" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="SriLanka Tamil TV", EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: EET TV - L2" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="SriLanka Tamil TV", EET TV - L2
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: SHAKTHI TV" tvg-logo="https://shakthitv.lk/wp-content/uploads/2021/12/shakthi-tv-logo-90.png" group-title="SriLanka Tamil TV", SHAKTHI TV
 http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: SHAKTHI TV-L2" tvg-logo="https://shakthitv.lk/wp-content/uploads/2021/12/shakthi-tv-logo-90.png" group-title="SriLanka Tamil TV", SHAKTHI TV - L2
+http://uk1.zecast.com:1935/star-live/shakthi/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: Capital Tharisanam" tvg-logo="http://7starcloud.in/download.jpg" group-title="SriLanka Tamil TV", Capital Tharisanam [GEO Blocked]
 http://185.180.12.42/mylive/capital/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: Capital TV" tvg-logo="http://7starcloud.in/download.jpg" group-title="SriLanka Tamil TV", Capital TV [GEO Blocked]
